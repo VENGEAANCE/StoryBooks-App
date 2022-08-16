@@ -1,1 +1,1 @@
-web: cross-env NODE_ENV=production node app
+web: node server.js
