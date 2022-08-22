@@ -16,7 +16,7 @@ Using google Oauth2.0 users can log in and create storybooks with full crud capa
 
 ## Lessons Learned:
 
-Schemas let us set rules for what we need from the database or user input for requests to work, such as name, last name and image for the user to be able to log in.
+Mongoose Schemas help make sure our data is sctructured consistently
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
