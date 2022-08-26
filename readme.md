@@ -16,7 +16,7 @@ Using google Oauth2.0 users can log in and create storybooks with full crud capa
 
 ## Lessons Learned:
 
-Mongoose Schemas help make sure our data is sctructured consistently
+Mongoose Schemas help make sure our data is sctructured consistently.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
