@@ -1,4 +1,4 @@
-# Storybooks App with Authentication 
+# Full Stack Storybooks App with Authentication 
 Using google Oauth2.0 users can log in and create storybooks with full crud capabilities. Set private and public stories and display stories depending on the user account
 
 **Link to project:** https://storybooks-with-google-auth.herokuapp.com/
