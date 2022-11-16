@@ -7,9 +7,14 @@ Using google Oauth2.0 users can log in and create storybooks with full crud capa
 ![alt tag](/images/dashboard.png)
 
 
-## How It's Made:
+## Tech Used:
 
-**Tech used:** HTML, CSS, JavaScript, Node.js, Express.js, Mongodb
+**Tech used:** HTML
+CSS
+JavaScript
+Node.js
+Express.js
+Mongodb
 
 ## Optimizations
 *(pending)*
